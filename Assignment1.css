@@ -1,0 +1,154 @@
+*{
+  font-family: Poppins;
+}
+
+header {
+  background-color: #CE0505;
+  height: 80px;
+  position: relative;
+}
+
+.logo-span {
+  width: 32px;
+  height: 47px;
+  background-color: #FFFFFF;
+  border-radius: 50%;
+  position: absolute;
+  left: 102px;
+  top: 16px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 1px;
+  padding-bottom: 4px;
+}
+
+.logo{
+  color: #CE0505;
+  font-size: 33px;
+  font-weight: 640;
+  text-decoration: none;
+}
+
+.login-signup {
+  position: absolute;
+  left: 1015px;
+  top: 25px;
+  word-spacing: 10px;
+}
+
+.login {
+  color: #fbfbfb;
+  text-decoration: none;
+}
+
+.createacc {
+  color: #fbfbfb;
+  text-decoration: none;
+  border: 1px solid white;
+  padding: 10px 10px;
+  word-spacing: normal;
+}
+
+section {
+  position: relative;
+  padding: 20px 50px;
+}
+
+.title-text {
+  position: absolute;
+  color: #192f60;
+  left: 113px;
+  top: 37px;
+  text-align: left;
+  font: normal normal bold 36px/55px Poppins;
+  letter-spacing: 0px;
+}
+
+.filter-article {
+  width: 260px;
+  height: 682px;
+  box-shadow: 0 3px 6px 0 rgb(0, 0, 0, 0.20);
+  background-color: #ffffff;
+  position: absolute;
+  top: 115px;
+  left: 113px;
+}
+
+.result1-article {
+  width: 794px;
+  height: 291px;
+  box-shadow: 0 3px 6px 0 rgb(0, 0, 0, 0.20);
+  background-color: #ffffff;
+  position: absolute;
+  top: 115px;
+  left: 418px;
+}
+
+.image1 {
+  width: 120px;
+  height: 120px;
+  position: absolute;
+  top: 25px;
+  left: 35px;
+  border-radius: 20%;
+}
+
+.result1-h2 {
+  position: absolute;
+  top: 25px;
+  left: 196px;
+}
+
+.result-h4 {
+  position: absolute;
+  top: 70px;
+  left: 201px;
+}
+
+.result-p1 {
+  position: absolute;
+  top: 105px;
+  left: 201px;
+}
+
+.result-h6 {
+  width: 140px;
+  height: 118px;
+  position: absolute;
+  top: 190px;
+  left: 35px;
+  text-align: left;
+  font: normal normal normal 16px/30px Poppins;
+  letter-spacing: 0px;
+  color: #636F88;
+  opacity: 1;
+}
+
+.result-h5 {
+  width: 215px;
+  height: 69px;
+  position: absolute;
+  top: 202px;
+  left: 216px;
+  text-align: left;
+  font: normal normal normal 16px/30px Poppins;
+  letter-spacing: 0px;
+  color: #192F60;
+  opacity: 1;
+}
+
+.result2-article {
+  width: 794px;
+  height: 291px;
+  box-shadow: 0 3px 6px 0 rgb(0, 0, 0, 0.20);
+  background-color: #ffffff;
+  position: absolute;
+  top: 440px;
+  left: 418px;
+}
+
+.pagination {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+}
