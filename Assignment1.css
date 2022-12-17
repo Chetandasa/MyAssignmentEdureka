@@ -99,23 +99,23 @@ section {
   left: 196px;
 }
 
-.result-h4 {
+.result1-h4 {
   position: absolute;
   top: 70px;
   left: 201px;
 }
 
-.result-p1 {
+.result1-p1 {
   position: absolute;
   top: 105px;
   left: 201px;
 }
 
-.result-h6 {
+.result1-h6 {
   width: 140px;
   height: 118px;
   position: absolute;
-  top: 190px;
+  top: 180px;
   left: 35px;
   text-align: left;
   font: normal normal normal 16px/30px Poppins;
@@ -124,17 +124,22 @@ section {
   opacity: 1;
 }
 
-.result-h5 {
+.result1-h5 {
   width: 215px;
   height: 69px;
   position: absolute;
-  top: 202px;
+  top: 192px;
   left: 216px;
   text-align: left;
   font: normal normal normal 16px/30px Poppins;
   letter-spacing: 0px;
   color: #192F60;
   opacity: 1;
+}
+
+.result1-hr {
+  position: relative;
+  top: 180px;
 }
 
 .result2-article {
@@ -147,8 +152,210 @@ section {
   left: 418px;
 }
 
+/* hello worls....////........./././ */
+
+
+.image2 {
+  width: 120px;
+  height: 120px;
+  position: absolute;
+  top: 25px;
+  left: 35px;
+  border-radius: 20%;
+}
+
+.result2-h2 {
+  position: absolute;
+  top: 25px;
+  left: 196px;
+}
+
+.result2-h4 {
+  position: absolute;
+  top: 70px;
+  left: 201px;
+}
+
+.result2-p1 {
+  position: absolute;
+  top: 105px;
+  left: 201px;
+}
+
+.result2-h6 {
+  width: 140px;
+  height: 118px;
+  position: absolute;
+  top: 180px;
+  left: 35px;
+  text-align: left;
+  font: normal normal normal 16px/30px Poppins;
+  letter-spacing: 0px;
+  color: #636F88;
+  opacity: 1;
+}
+
+.result2-h5 {
+  width: 215px;
+  height: 69px;
+  position: absolute;
+  top: 192px;
+  left: 216px;
+  text-align: left;
+  font: normal normal normal 16px/30px Poppins;
+  letter-spacing: 0px;
+  color: #192F60;
+  opacity: 1;
+}
+
+.result2-hr {
+  position: relative;
+  top: 180px;
+}
+
+
+
 .pagination {
   position: absolute;
-  bottom: 20px;
+  width: 330px;
+  top: 780px;
   left: 50%;
+}
+
+.div1 {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  border: 1px solid #8C96AB;
+  border-radius: 7px;
+  opacity: 0.4;
+  
+}
+
+.a1 {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  left: 49px;
+  background: #8C96AB 0% 0% no-repeat padding-box;
+  border: 1px solid #8C96AB;
+  border-radius: 7px;
+  opacity: 1;
+}
+
+.a2 {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  left: 97px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  border: 1px solid #8C96AB;
+  border-radius: 7px;
+  opacity: 1;
+}
+
+.a3 {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  left: 145px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  border: 1px solid #8C96AB;
+  border-radius: 7px;
+  opacity: 1;
+}
+
+.a4 {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  left: 191px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  border: 1px solid #8C96AB;
+  border-radius: 7px;
+  opacity: 1;
+}
+
+.a5 {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  left: 242px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  border: 1px solid #8C96AB;
+  border-radius: 7px;
+  opacity: 1;
+}
+
+.div2 {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  left: 294px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  order: 1px solid #8C96AB;
+  border-radius: 7px;
+  opacity: 1;
+}
+
+.div1p {
+  margin-top: 10px;
+  margin-left: 14px;
+  font-size: 8,17px 16.34px;
+}
+
+.ap1 {
+  margin-top: 7px;
+  margin-left: 15px;
+  text-align: left;
+  font: normal normal medium 20px/30px Poppins;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  opacity: 1;
+}
+
+.ap2 {
+  margin-top: 7px;
+  margin-left: 15px;
+  text-align: left;
+  font: normal normal medium 20px/30px Poppins;
+  letter-spacing: 0px;
+  color: #8C96AB;
+  opacity: 1;
+}
+
+.ap3 {
+  margin-top: 7px;
+  margin-left: 15px;
+  text-align: left;
+  font: normal normal medium 20px/30px  Poppins;
+  letter-spacing: 0px;
+  color: #8C96AB;
+  opacity: 1;
+}
+
+.ap4 {
+  margin-top: 7px;
+  margin-left: 15px;
+  text-align: left;
+  font: normal normal medium 20px/30px Poppins;
+  letter-spacing: 0px;
+  color: #8C96AB;
+  opacity: 1;
+}
+
+.ap5 {
+  margin-top: 7px;
+  margin-left: 15px;
+  text-align: left;
+  font: normal normal medium 20px/30px Poppins;
+  letter-spacing: 0px;
+  color: #8C96AB;
+  opacity: 1;
+}
+
+.div2p {
+  margin-top: 7px;
+  margin-left: 14px;
 }
