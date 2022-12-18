@@ -74,6 +74,40 @@ section {
   left: 113px;
 }
 
+.filter-h2 {
+  color: #192F60;
+}
+
+.filter-loc {
+  color: #192F60;
+}
+
+.filter-cuisine {
+  color: #192F60;
+}
+
+.filter-cost {
+  color: #192F60;
+}
+
+.filter-sort {
+  color: #192F60;
+}
+
+.location {
+  width: 208px;
+  height: 35px;
+  border-radius: 5px;
+  border: solid 1px #8c96ab;
+  margin-top: 10px;
+}
+
+.filter-div {
+  position: absolute;
+  left: 26px;
+  color: #8C96AB;
+}
+
 .result1-article {
   width: 794px;
   height: 291px;
@@ -97,18 +131,21 @@ section {
   position: absolute;
   top: 25px;
   left: 196px;
+  color: #192F60;
 }
 
 .result1-h4 {
   position: absolute;
   top: 70px;
   left: 201px;
+  color: #192F60;
 }
 
 .result1-p1 {
   position: absolute;
   top: 105px;
   left: 201px;
+  color: #636F88;
 }
 
 .result1-h6 {
@@ -152,9 +189,6 @@ section {
   left: 418px;
 }
 
-/* hello worls....////........./././ */
-
-
 .image2 {
   width: 120px;
   height: 120px;
@@ -168,18 +202,21 @@ section {
   position: absolute;
   top: 25px;
   left: 196px;
+  color: #192F60;
 }
 
 .result2-h4 {
   position: absolute;
   top: 70px;
   left: 201px;
+  color: #192F60;
 }
 
 .result2-p1 {
   position: absolute;
   top: 105px;
   left: 201px;
+  color: #636F88;
 }
 
 .result2-h6 {
@@ -230,7 +267,6 @@ section {
   border: 1px solid #8C96AB;
   border-radius: 7px;
   opacity: 0.4;
-  
 }
 
 .a1 {
@@ -294,7 +330,7 @@ section {
   height: 36px;
   left: 294px;
   background: #FFFFFF 0% 0% no-repeat padding-box;
-  order: 1px solid #8C96AB;
+  border: 1px solid #8C96AB;
   border-radius: 7px;
   opacity: 1;
 }
@@ -302,7 +338,7 @@ section {
 .div1p {
   margin-top: 10px;
   margin-left: 14px;
-  font-size: 8,17px 16.34px;
+  font-size: 8.17px 16.34px;
 }
 
 .ap1 {
@@ -358,4 +394,5 @@ section {
 .div2p {
   margin-top: 7px;
   margin-left: 14px;
+  font-size: 8.17px 16.34px;
 }
